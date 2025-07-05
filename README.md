@@ -2,9 +2,7 @@
 #company-codetech it solutions 
 #name-poojitha
 #domain-web development 
-#duration-4weeks
-
-
+#duration-4week
 
 What is a PWA?
 
@@ -74,12 +72,6 @@ A Progressive Web App (PWA) is a web application that uses modern web capabiliti
    - Required for service workers and many PWA features
    - Ensures security and data integrity
 
-benefits of PWAs
 
-For Users:
-- **No installation required** (but can be installed if desired)
-- **Small footprint** (much smaller than native apps)
-- **Always up-to-date** (no manual updates needed)
-- **Works offline** or on low-quality networks
-- **Fast loading** (especially on repeat visits)
-- **Linkable and shareable** via URLs
+
+- ![Image](https://github.com/user-attachments/assets/32c01c75-1655-49fe-850d-ff5371d54168)
